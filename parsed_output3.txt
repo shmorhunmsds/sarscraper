@@ -1,0 +1,1691 @@
+                                                     UNCLASSIFIED
+OPARTMENT OF 11 STATES 0F1
+                 Modernized Selected Acquisition Report (MSAR)
+                                 Advanced Arresting Gear (AAG)
+
+                                             FY 2025 President's Budget
+                                            Effective: December 31, 2023
+
+                                    Defense Acquisition Visibility Environment
+
+                                                     UNCLASSIFIED
+
+AAG                                         UNCLASSIFIED  MSAR, December 31, 2023
+
+                                      Table of Contents
+
+     Common DoD Abbreviations                                              3
+     Program Description                                                   5
+     Responsible Office                                                    6
+     Executive Summary                                                     7
+     Schedule                                                             10
+     Performance                                                          11
+     Acquisition Budget Estimate                                          14
+     Unit Costs                                                           16
+     Life-Cycle Costs                                                     18
+     Technologies and Systems Engineering                                 21
+     Performing Activities and Contracts                                  22
+     Production                                                           24
+     Deliveries and Expenditures                                          25
+     International Program Aspects                                        26
+
+                                            UNCLASSIFIED                           2
+
+AAG                                                 UNCLASSIFIED       MSAR, December 31, 2023
+
+   (U) Common DoD Abbreviations
+
+   $B                  Billions of Dollars
+   $K                  Thousands of Dollars
+   $M                  Millions of Dollars
+   ACAT                Acquisition Category
+   Acq O&M             Acquisition-Related Operations and Maintenance
+   ADM                 Acquisition Decision Memorandum
+   APA                 Additional Performance Attribute
+   APB                 Acquisition Program Baseline
+   APPN                Appropriation
+   APUC                Average Procurement Unit Cost
+   BA                  Budget Authority or Budget Activity
+   Blk                 Block
+   BY                  Base Year
+   CAE                 Component Acquisition Executive
+   CAPE                Cost Assessment and Program Evaluation
+   CARD                Cost Analysis Requirements Description
+   CCE                 Component Cost Estimate
+   CCP                 Component Cost Position
+   CDD                 Capability Development Document
+   CLIN                Contract Line Item Number
+   CPD                 Capability Production Document
+   CY                  Calendar Year or Constant Year
+   DAB                 Defense Acquisition Board
+   DAE                 Defense Acquisition Executive
+   DAES                Defense Acquisition Executive Summary
+   DAVE                Defense Acquisition Visibility Environment
+   DoD                 Department of Defense
+   DSN                 Defense Switched Network
+   EMD                 Engineering and Manufacturing Development
+   EVM                 Earned Value Management
+   FD                  Full Deployment
+   FDD                 Full-Deployment Decision
+   FMS                 Foreign Military Sales
+   FOC                 Full Operational Capability
+   FRP                 Full-Rate Production
+   FY                  Fiscal Year
+   FYDP                Future Years Defense Program
+   ICD                 Initial Capabilities Document
+   ICE                 Independent Cost Estimate
+   Inc                 Increment
+   IOC                 Initial Operational Capability
+   IT                  Information Technology
+   JROC                Joint Requirements Oversight Council
+   KPP                 Key Performance Parameter
+   KSA                 Key System Attribute
+
+Common DoD Abbreviations                            UNCLASSIFIED                                3
+
+AAG                                                 UNCLASSIFIED                 MSAR, December 31, 2023
+
+   LRIP                Low-Rate Initial Production
+   MDA                 Milestone Decision Authority
+   MDAP                Major Defense Acquisition Program
+   MILCON              Military Construction
+   N/A                 Not Applicable
+   O                   Objective
+   O&M                 Operations and Maintenance
+   O&S                 Operating and Support
+   ORD                 Operational Requirements Document
+   OSD                 Office of the Secretary of Defense
+   PAUC                Program Acquisition Unit Cost
+   PB                  President’s Budget
+   PE                  Program Element
+   PEO                 Program Executive Officer
+   PM                  Program Manager
+   POE                 Program Office Estimate
+   R&MF                Revolving and Management Funds
+   RDT&E               Research, Development, Test, and Evaluation
+   SAR                 Selected Acquisition Report
+   SCP                 Service Cost Position
+   T                   Threshold
+   TBD                 To Be Determined
+   TY                  Then Year
+   U.S.                United States
+   U.S.C               United States Code
+   UCR                 Unit Cost Reporting
+   USD(A&S)            Under Secretary of Defense (Acquisition and Sustainment)
+
+Common DoD Abbreviations                            UNCLASSIFIED                                          4
+
+     AAG                                                   UNCLASSIFIED                             MSAR, December 31, 2023
+
+(U) Program Description
+    Full Name
+    Advanced Arresting Gear
+    PNO
+    529
+    Lead Component
+    Department of the Navy
+    Joint Program
+    No
+    Adaptive Acquisition Pathway
+    Major Capability Acquisition
+    Acquisition Category
+    IC
+    Acquisition Status
+    Active Acquisition
+
+Short Name
+AAG
+Milestone Decision Authority
+Component Acquisition Executive
+Program Executive Office
+PEO Tactical Air
+International Partners
+France
+Acquisition Type
+Major Defense Acquisition Program
+Acquired Systems
+AAG
+
+
+
+             Mission
+             The Advanced Arresting Gear (AAG) program is a system-level acquisition for a new arresting
+             gear for the GERALD R. FORD-class (CVN 78) aircraft carrier. The AAG is designed to provide
+             total life-cycle cost savings by reducing O&M costs when compared to the NIMITZ-class (CVN
+             68). The AAG provides new operational capabilities required by the CVN 78-class, which include
+             the ability to safely and efficiently recover both heavier and faster aircraft as well as lightweight
+             unmanned air vehicles that will enter the fleet in the future.
+
+     Program Description                                   UNCLASSIFIED                                                      5
+
+     AAG                                   UNCLASSIFIED  MSAR, December 31, 2023
+
+        (U) Responsible Office
+
+Program Executive Officer
+PEO Tactical Air
+RADM John Lemmon
+john.s.lemmon.mil@us.navy.mil (primary)
+no phone number provided
+Program Manager
+Advanced Arresting Gear PMO
+CAPT Michael P. Kline
+michael.p.kline.mil@us.navy.mil (primary)
+no phone number provided
+
+     Responsible Office                    UNCLASSIFIED                           6
+
+AAG                                                    UNCLASSIFIED                            MSAR, December 31, 2023
+
+    (U) Executive Summary
+
+        Program Highlights Since Last Report
+        During the USS Gerald R. Ford (CVN 78) Independent Steaming Events and Post-Planned
+        Incremental Availability underway periods, the AAG system operated on multiple days with 100+
+        aircraft recoveries, including the completion of 170 arrestments in a single day. The CVN 78
+        completed her first Composite Training Unit Exercise in March 2023 with 60 CVW-8 aircraft
+        embarked, encompassing 1,600 fixed-wing recoveries. The AAG system has demonstrated
+        steadily improving performance supporting CVN 78's first operational deployment in 2023.
+        The CVN 78 completed her maiden operational deployment in January 2024 following a 2.5-
+        month extension. The CVN 78 safely and expeditiously launched over 8,700 aircraft during the
+        8.5-month deployment in support of national objectives. As of February 2024, the AAG system
+        onboard CVN 78 recovered nearly 23,000 fixed-wing aircraft.
+        The AAG Operational Availability (Ao) is currently below the APB threshold requirement (CDD
+        Ao). The CDD Ao requirement is the expected value after AAG reaches system maturity (25,000
+        cycles on one ship's system) and based on a four-engine/three-wire system. The as-installed
+        AAG system aboard CVN 78 is a three-engine/three-wire system. The AAG system has
+        insufficient time and cycles to accurately assess the Ao requirement and achieve the APB
+        performance parameter. As the AAG system increases cyclic operations, increases to the
+        system reliability and Ao are expected. The AAG program continues to address system reliability
+        and Ao through hardware and software improvements.
+        Due to fact-of-life updates in the FY 2025 PB for the AAG program, the PM Estimates for
+        Procurement Cost and APUC result in breaches to the approved APB. Cost drivers include the
+        increased USS Doris Miller (CVN 81) cost estimates, USS Enterprise (CVN 80) engineering
+        changes and technical refresh due to obsolescence, production cut-in of the AAG Water Twister
+        Mod II, replacement cost of materials cannibalized to support CVN 78 deployment, and
+        increased costs due to delayed ship delivery. The APUC growth, the result of the increased
+        procurement costs, is a Significant Nunn-McCurdy Unit Cost Breach. The PM notified the MDA of
+        impending deviations and submitted a program deviation report. Within the next 90 business
+        days, the PM will collaborate with AAG program stakeholders to determine if a program
+        restructure is necessary and submit a revised APB to mitigate the deviation. The revised APB
+        will also address the schedule deviation reported in the previous SAR (reported in a CVN 78
+        program deviation report acknowledged by the MDA in August 2023).
+        The AAG program awarded the CVN 81 pre-production planning contract in December 2021, and
+        awarded a modification to add production and delivery-related CLINs to the contract on June 7,
+        2023. Pre-production efforts have identified 40 bundled obsolescence changes required for
+        incorporation in production and retrofit in the fleet within the FYDP. The AAG Production Team is
+        processing engineering change proposals under the CVN 81 production contract to address the
+        obsolescence issues.
+        The AAG program is currently evaluating system software performance in an operational
+        environment aboard CVN 78. The AAG team tracks and manages software bugs and artifacts
+        for further investigation consideration. Some high-priority software issues have been addressed
+        and mitigated via issuance of multiple software patches. Other software issues are being
+        prioritized for potential inclusion in planned software engineering change proposals. Specifically,
+        the AAG team is pursuing a funded, long-term software stability effort to address system
+        latency and non-deterministic behavior in an effort to improve overall system performance.
+
+Executive Summary                                      UNCLASSIFIED                                                     7
+
+AAG                                                             UNCLASSIFIED                                    MSAR, December 31, 2023
+
+         There are no significant software-related issues with this program at this time.
+
+         (U) History of Significant Developments Since Program Inception
+           Date                         Description
+           January 2024                 CVN 78 completed her maiden operational deployment following a 2.5-month extension.
+                                        The AAG system reached nearly 23,000 total arrestments.
+           June 2023                    CVN 81 AAG/EMALS full-production contract awarded.
+           May 2023                     CVN 78 departed on her first planned operational deployment.
+           March 2023                   CVN 78 successfully completed her pre-deployment Composite Training Unit Exercise
+                                        (COMPTUEX); achieving No-Divert Airfield (Blue Water) Certification. The AAG completed
+                                        1,600 arrestments during COMPTUEX.
+           November 2022                F-35 risk reduction testing conducted.
+           October 2022                 CVN 78 conducted a service-retained deployment from October to November 2022.
+           February 2022                CVN 78 Planned Incremental Availability I completed.
+           December 2021                CVN 81 Pre-production Planning contract awarded.
+           September 2021               CVN 78 Planned Incremental Availability I commenced to address modernization,
+                                        maintenance, and repairs prior to operational employment.
+           August 2021                  CVN 78 FSST successfully completed with continued operations throughout events.
+           June 2021                    CVN 78 Full Ship-Shock Trials (FSST) commence to evaluate ship and subsystems
+                                        (including AAG) ability to withstand battle conditions.
+           April 2021                   PDT&T complete; AAG Initial Operating Capability criteria achieved.
+           December 2020                The French Government announces the FFC will include the AAG system.
+           March 2020                   AAG flight deck certification complete.
+           February 2020                The AAG APB Change 1 approved February 5, 2020. This revision aligned schedule events
+                                        with CVN 78 and increased program cost parameters due to the program of record change
+                                        (increase of one shipset - USS Doris Miller (CVN 81)).
+           January 2020                 AAG aircraft compatibility testing completed; AAG system officially turned-over to CVN 78
+                                        crew.
+           December 2019                All F/A-18E/F, EA-18G, E-2D, E-2C, C-2A, T-45C aircraft launch bulletins, aircraft recovery
+                                        bulletins, and fleet barricade capability released; AAG system fully supports current air
+                                        wing.
+           November 2019                CVN 78 Post-Shakedown Availability - AAG system recertification completed (Formal
+                                        Certification message containing required information was released January 8, 2020.)
+                                        Post-delivery Test and Evaluation (PDT&T) commenced.
+           October 2019                 IT-B4 RALS completed at Lakehurst RALS.
+           August 2019                  Integrated Test (IT)-B3 completed at Lakehurst JCTS.
+           August 2019                  The AAG program provided a rough order of magnitude for the Future French Carrier (FFC)
+                                        Electromagnetic Aircraft Launch System (EMALS)/AAG effort to the French Ministry of
+                                        Defense.
+           December 2018                First Future French Carrier Working Group meeting held.
+           December 2018                AAG completed manned F/A-18E/F and EA-18G aircraft performance testing at Lakehurst
+                                        Runway Arrested Landing Site (RALS).
+           September 2018               Letter of Offer and Acceptance for Technical Assistance Case between the U.S.
+                                        Government and the Government of France signed.
+           August 2018                  AAG completed unmanned F/A-18E/F and EA-18G aircraft performance testing, using
+Executive Summary                                               UNCLASSIFIED                                                             8
+
+AAG                                             UNCLASSIFIED                                  MSAR, December 31, 2023
+
+          Date           Description
+                         deadloads, at the Lakehurst Jet Car Track Site (JCTS).
+          August 2018    AAG SDD contract Over Target Baseline/Over Target Schedule re-plan completed.
+          January 2018   USD(AT&L) delegated MDA to ASN(RDA) and re-designated AAG an ACAT IC program.
+          December 2017  The AAG program submitted the AAG Software plan addressing software safety and
+                         requirements that reflect the operational concept addressed in the AAG Nunn McCurdy
+                         Certification ADM.
+          November 2017  The AAG program proposed an adjusted APB based on the CAPE ICE completed July 2017
+                         for the Nunn McCurdy review. On November 17, 2017, the USD(AT&L) approved the APB,
+                         which became the original baseline.
+          July 2017      The Nunn McCurdy review and certification of AAG completed and documented, and
+                         USD(AT&L) designated AAG an ACAT ID program in the July 12, 2017 Acquisition Decision
+                         Memorandum.
+          May 2017       PMA 251 submitted a Nunn McCurdy SAR in accordance with the NDAA FY 2017 Section
+                         125.
+          May 2017       CVN 79 AAG contract option exercised for the CVN 80 AAG system.
+          December 2016  Navy Center for Cost Analysis completed the AAG Component Cost Position.
+          December 2016  Section 125 of the National Defense Authorization Act includes a requirement to perform
+                         a Nunn- McCurdy review of AAG using the 2009 APB.
+          July 2015      USD(AT&L) reclassified AAG as an ACAT IC program.
+          June 2015      ASN requested USD(AT&L) reclassify AAG as an ACAT IC program.
+          March 2015     PMA 251 requested the re-designation of Advanced Arresting Gear (AAG) as an ACAT IC
+                         program (from an ACAT II program).
+
+Executive Summary                               UNCLASSIFIED                                                           9
+
+AAG                                                    UNCLASSIFIED                              MSAR, December 31, 2023
+
+    (U) Schedule
+
+        (U) Schedule Events
+         Events                                                            APB Change 1               Current          Actual
+                                                                              (Current)               Estimate
+                                                                              2/5/2020              12/31/2023
+                                                                        Objective / Threshold
+         Milestone A                                       MS A       Jul 2003        Jul 2003            -         16 Jul 2003
+         Milestone B                                       MS B       Feb 2005        Feb 2005            -         10 Feb 2005
+         IT-B3 JCTS complete                               DT&E       Aug 2019        Aug 2019            -         11 Jul 2019
+         IT-B4 RALS complete                               DT&E       Oct 2019        Oct 2019            -         24 Oct 2019
+         IOC                                               IOC        Jul 2021        Jan 2022            -         30 Apr 2021
+         IOT&E                                             IOT&E      Nov 2023        May 2024       May 2025*            -
+        * Baseline Deviation
+
+        Notes
+        Acronyms and Abbreviations
+        IT-B3 - Integrated Test-B3 (Jet Car Track Site Functional and Performance Testing)
+        JCTS - Jet Car Track Site
+        RALS - Runway Arrested Landing Site
+        IOT&E - Initial Operational Test and Evaluation
+        Schedule Notes:
+        Current APB: AAG Development APB Change 1, approved February 5, 2020
+        The AAG IOT&E current estimate changed from Nov 2023 to Mar 2025 for consistency with the CVN
+        78 IOT&E completion current estimate date.
+
+        Schedule Baseline Deviation Explanation
+        The IOT&E completion date change is based on the projected future Composite Training Unit
+        Exercise schedule planned for early 2025 that incorporates sortie generation rate demonstration.
+        The IOT&E completion current estimate has changed from March 2025 to May 2025 due to the CVN
+        78's extended deployment. This schedule deviation was reported in the December 2022 SAR and the
+        CVN 78 program deviation report acknowledged by the MDA in August 2023. The PM will submit a
+        revised APB to mitigate this deviation.
+
+        (U) Current Significant Schedule Risks and Risks Identified at Milestones/Decisions
+        None
+
+Schedule                                               UNCLASSIFIED                                                           10
+
+AAG                                                      UNCLASSIFIED                                MSAR, December 31, 2023
+
+    (U) Performance
+
+          (U) Performance Attributes
+           Aircraft Interoperability                                                                                          KPP
+           Current Estimate                                            Will meet threshold. Meets threshold requirements for
+           12/31/2023                                                  C-2A, E- 2C, E-2D, F/A- 18E/F, EA- 18G and T- 45C. F-35C
+                                                                       risk reduction testing conducted in FY 2022; follow-on
+                                                                       compatibility testing with deadloads conducted in 2023;
+                                                                       manned compatibility testing commenced in January
+                                                                       2024; Aircraft Recovery Bulletin (ARB) expected in FY
+                                                                       2024.
+           Demonstrated Performance                                    Hookload limits and G-load limits demonstrated to be
+           2/28/2020                                                   within limits as defined in ARB NO. 35-12 E.
+           APB Change 1                                    Objective   The hookload limits and G-load limits applicable to each
+           (Current)                                                   aircraft listed in the Development Threshold plus those
+                                                                       listed in Table 2 shall not be exceeded when each aircraft
+                                                                       engages the AAG at up to its maximum weight, net
+                                                                       applied thrust, and maximum aircraft engaging velocity.
+           2/5/2020                                        Threshold   The hookload limits and G-load limits applicable to
+                                                                       C-2A,E-2 Type/Model/Series (TMS), F/A-18, EA-18 TMS,
+                                                                       F-35, and T45 aircraft shall not be exceeded when each
+                                                                       aircraft engages the AAG at up to its maximum weight,
+                                                                       net applied thrust, and maximum aircraft engaging
+                                                                       velocity.
+           Cycle Time JCTS and RALS demonstration                                                                             KPP
+           Current Estimate                                            Will meet threshold. Mitigations include new Cable Shock
+           12/31/2023                                                  Absorber proximity switch bracket and Software V3.1.1.0
+                                                                       (Release M) to reduce communications faults and
+                                                                       aborted retracts in FY 2024. Reassess upon IOT&E
+                                                                       completion.*
+           Demonstrated Performance                                    Cycle time of 37 seconds demonstrated during
+           3/14/2023                                                   Composite Training Unit Exercise.
+           APB Change 1                                    Objective   30 Seconds
+           (Current)
+           2/5/2020                                        Threshold   35 Seconds
+           Operational Availability IOT&E demonstration                                                                       KPP
+           Current Estimate                                            Will meet threshold. Since July 2020, AAG has
+           12/31/2023                                                  demonstrated significant increases in Ao as compared to
+                                                                       the early phases of Post-delivery Test and Trials. As the
+                                                                       AAG system increases cyclic operations, increases to
+                                                                       system reliability and Ao are expected.
+           Demonstrated Performance                                    0.906 = Cumulative Ao based on 22,902 CVN 78
+           1/18/2024                                                   shipboard arrestments for the as-installed three-wire
+                                                                       system (0.970 = Ao while deployed May 4 - January 18,
+                                                                       2024)
+           APB Change 1                                    Objective   0.988
+           (Current)
+           2/5/2020                                        Threshold   0.985
+           AAG Operating Envelope                                                                                             KPP
+Performance                                              UNCLASSIFIED                                                              11
+
+AAG                                     UNCLASSIFIED                                 MSAR, December 31, 2023
+
+           Current Estimate                           Meets Threshold.
+           12/31/2023
+           Demonstrated Performance                   Jet Car Testing Site testing demonstrated the ability to
+           3/20/2019                                  absorb deadload arrestment energy within the threshold
+                                                      operating envelope.
+           APB Change 1                  Objective    9,000 to 55,000 lbs.
+           (Current)
+           2/5/2020                      Threshold    13,360 to 55,000 lbs.
+           Barricade Interoperability                                                                        KSA
+           Current Estimate                           Meets Objective.
+           12/31/2023
+           Demonstrated Performance                   Barricade testing demonstrated 15 seconds/15 seconds
+           2/28/2019                                  time to convert the system.
+           APB Change 1                  Objective    <1 minute / < 3minutes
+           (Current)
+           2/5/2020                      Threshold    <3 minutes / <10 minutes
+           Manning                                                                                           KSA
+           Current Estimate                           Meets Threshold.
+           12/31/2023
+           Demonstrated Performance                   55 is based on November 2018 Manpower Analysis
+           11/9/2018                                  Report.
+           APB Change 1                  Objective    45
+           (Current)
+           2/5/2020                      Threshold    55
+           Peak Aircraft Recovery Rate                                                                       KSA
+           Current Estimate                           Will meet objective. System expected to meet threshold/
+           12/31/2023                                 objective based on RALS testing.
+           Demonstrated Performance                   System analysis (thermal stress) supports recovery of 28
+           10/24/2019                                 aircraft in 21 minutes for the CVN 78 three-wire system.
+                                                      Aircraft demonstration conducted at RALS October 2019.
+                                                      RALS high-cycle peak recovery of 28 aircraft in 22.3
+                                                      minutes demonstrated on a 1-wire system.
+           APB Change 1                  Objective    Recover 28 aircraft in 21 minutes
+           (Current)
+           2/5/2020                      Threshold    (T=O) Recover 28 aircraft in 21 minutes
+           Human Systems Integration                                                                         KSA
+           Current Estimate                           Meets Objective.
+           12/31/2023
+           Demonstrated Performance                   Requirement assessed during CVN 78 Aircraft
+           4/30/2021                                  Compatibility Test and Flight Deck Certification.
+           APB Change 1                  Objective    Operable and maintainable by 5th to 95th percentile
+           (Current)                                  range of operators/maintainers. operator-system
+                                                      interfaces (e.g., switches, displays) will be operated with
+                                                      minimal errors.
+           2/5/2020                      Threshold    (T=O) Operable and maintainable by 5th to 95th
+                                                      percentile range of operators/maintainers. operator-
+                                                      system interfaces (e.g., switches, displays) will be
+                                                      operated with minimal errors.
+
+Performance                             UNCLASSIFIED                                                               12
+
+AAG                                                   UNCLASSIFIED                             MSAR, December 31, 2023
+
+        * Baseline Deviation
+
+        (U) Requirement Source:
+        Sponsor(s): None
+        1.Document Type Not Provided
+           Notes: AAG CDD dated July 15, 2008, and the Department of the Navy, Program Executive Officer,
+           Aircraft Carriers, Subject: Transfer of one AAG Engine Set from CVN 78 to CVN 79, dated May 19,
+           2014, and the Department of the Navy,Director, Air Warfare (N98), Subject: AAG POR
+           Requirements Revision dated February 12, 2016.
+
+        Notes
+        Operation Availability IOT&E demonstration (KPP). The objective and threshold are expected values
+        after system maturity is reached. System maturity is defined as the Navy Support Date plus 25,000
+        cycles on one ship's system. This should occur not later than CY 2023. The current demonstrated
+        performance changed from "0.865 (cumulative, 0.938=Instantaneous Ao) based on 12,577 CVN 78
+        shipboard arrestments for a three-wire system" to "Cumulative Ao = 0.898 based on 18,570 CVN 78
+        shipboard arrestments for the as-installed three-wire system (0.976 = Ao while deployed May 4 -
+        August 31, 2023)" due to accounting for additional CVN 78 shipboard arrestments. The AAG
+        program will continue to update Ao.
+        Ao - Operational Availability
+        ARB - Aircraft Recovery Bulletin
+        IOT&E - Initial Operational Test and Evaluation
+        JCTS - Jet Car Track Site
+        KSA - Key System Attribute
+        RALS - Runway Arrested Landing Site
+
+        Performance Deviation Explanation
+        Cycle Time JCTS and RALS Demonstration: Mitigations include new Cable Shock Absorber
+        proximity switch bracket and Software V3.1.1.0 (Release M) to reduce communication faults and
+        aborted retracts in FY 2024. Expected to meet threshold based on retract algorithm changes tested
+        at RALS. Will complete verification during CVN 78 IOT&E. This performance deviation was reported
+        in the December 2022 SAR.
+
+Performance                                           UNCLASSIFIED                                                      13
+
+AAG                                                      UNCLASSIFIED                               MSAR, December 31, 2023
+
+    (U) Acquisition Budget Estimate
+
+         (U) Total Acquisition Estimates and Quantities
+          Category ($M) Base Year: 2017                                                    APB Change 1           Current Estimate
+                                                                                              (Current)                PB 2025
+                                                                                              2/5/2020           CY$ obs / TY$ obs
+                                                                                               CY$ obs
+                                                                                        Objective / Threshold
+           RDT&E                                                                          1,550.1     1,705.1      1,407.9    1,422.2
+           Procurement                                                                    1,114.8     1,226.3     1,314.6*    1,567.4
+           MILCON                                                                            16.9         18.6        16.9       15.4
+           O&M                                                                                 0.0         0.0         0.0        0.0
+           R&MF                                                                                  -            -        0.0        0.0
+          Total Acquisition                                                               2,681.8             -    2,739.4    3,005.0
+          Program Acquisition Unit Cost                                                  670.450      737.495     684.856 751.260
+          Average Procurement Unit Cost                                                  278.700      306.570 328.648* 391.850
+          Program End-Item Quantity
+          Development                                                                            0                        -
+          Procurement                                                                            4                       4
+          O&M-Acquired                                                                           -                       0
+          * Baseline Deviation
+
+         Budget Notes
+         1.The current baseline estimate aligns with the FY 2025 PB.
+         2.The Procurement estimate includes Shipbuilding and Conversion, Navy funding ($1,383.6M TY$)
+            allocated to AAG from the CVN 78 Shipbuilding and Conversion, Navy 17-1611 budget (also
+            captured in the CVN 78 SAR Procurement estimate).
+         3.The FY 2018 through FY 2025 procurement funding supports the water twister effort accounted
+            for in the APB. Continuing system improvements FY 2025 and beyond are captured in the O&S
+            section of the APB and SAR.
+
+         Quantity Notes
+         None
+
+        Cost Baseline Deviation Explanation
+
+Acquisition Budget Estimate                              UNCLASSIFIED                                                             14
+
+      AAG                                                             UNCLASSIFIED                                    MSAR, December 31, 2023
+
+Parameter
+Acquisition Cost (Procurement)
+
+
+
+
+
+
+Program Acquisition Unit Cost
+Average Procurement Unit Cost
+
+Explanation
+The Procurement Cost breach is attributed to production-related fact-of-life
+updates to the AAG program. Cost drivers include the increased CVN 81 cost
+estimates, CVN 80 engineering changes and technical refresh due to
+obsolescence, production cut-in of the AAG Water Twister Mod II, replacement
+cost of materials cannibalized to support CVN 78 deployment, and increased
+costs due to delayed ship delivery. The PM notified the MDA of the breach and
+submitted a program deviation report.
+None
+The significant APUC breach (18% over the current baseline estimate) is the
+result of the increased procurement costs.
+
+                (U) Risk and Sensitivity Analysis
+                 Current Procurement Estimate Risks (12/31/2023)
+                 1        The current procurement estimate reflects the May 2, 2019 PLCCE that was approved in support of AAG APB
+                          Change 1. The risk and sensitivity analysis performed in support of APB Change 1 remains current and
+                          unchanged.
+                 Current Baseline Risks (2/5/2020)
+                 The current baseline estimate reflects a CAPE ICE approved in July 2017 in support of the AAG Nunn McCurdy
+                 certification and establishes the revised APB for the program's reclassification as an ACAT 1C Program. Software
+                 development was identified as the primary risk to the System Development & Demonstration program. The new
+                 schedule also added deadload and aircraft recoveries to the Dynamic Control System Software releases.
+                 Revised Original Baseline Risks (11/17/2017)
+                 None
+
+      Acquisition Budget Estimate                                     UNCLASSIFIED                                                             15
+
+AAG                                                          UNCLASSIFIED                                  MSAR, December 31, 2023
+
+    (U) Unit Costs
+
+         (U) Current Estimate Compared with Current Baseline
+          Category (CY$M) Base Year: 2017 Current Baseline              Current Estimate      % Change
+                                                      02/05/2020             PB 2025
+          Program Acquisition Unit Cost
+             Acquisition Cost                                 2,681.8              2,739.4
+             Program Quantity                                        4                    4
+             PAUC                                            670.450              684.856         2.15%
+          Average Procurement Unit Cost
+             Procurement Cost                                 1,114.8              1,314.6
+             Procurement Quantity                                    4                    4
+             APUC                                            278.700              328.648        17.92% Significant Cost Growth
+
+         (U) Current Estimate Compared with Original Baseline
+          Category (CY$M) Base Year: 2017 Original Baseline              Current Estimate     % Change
+                                                      11/17/2017              PB 2025
+          Program Acquisition Unit Cost
+             Acquisition Cost                                 2,227.8               2,739.4
+             Program Quantity                                        3                     4
+             PAUC                                            742.600               684.856        -7.78%
+          Average Procurement Unit Cost
+             Procurement Cost                                   764.2               1,314.6
+             Procurement Quantity                                    3                     4
+             APUC                                            254.733               328.648       29.02%
+
+         (U) Significant Cost Growth Details
+           Current Baseline APUC Breach Explanation
+           The significant APUC breach (18% over the current baseline estimate) is the result of the increased procurement
+           costs.
+           Impacts of Schedule Changes on Unit Cost
+           No expected impact; the SCN allocation from the CVN 78 program fully funds the planned production-related efforts.
+           Impacts of Performance Changes on Unit Cost
+           No expected impact
+
+Unit Costs                                                   UNCLASSIFIED                                                           16
+
+AAG                                                         UNCLASSIFIED                                 MSAR, December 31, 2023
+
+           Actions taken or Proposed to Control Future Cost Growth
+           The AAG program is evaluating acquisition strategies for potential future shipsets to maximize cost savings and
+           control future cost growth. Proposed actions include a multiple-shipset procurement strategy and maximizing cost-
+           sharing opportunities with France.
+           Status of Each Major Contract and Significant Factors Contributing to Cost and Schedule Variance; Projected Effects
+           on Future Program Costs
+           See Contracts section.
+
+         Notes
+         The PM notified the MDA of the breach and submitted a program deviation report. Within the next
+         90 business days, the PM will collaborate with AAG program stakeholders to determine if a program
+         restructure is necessary and submit a revised APB to mitigate the deviation.
+
+Unit Costs                                                  UNCLASSIFIED                                                          17
+
+AAG                                                     UNCLASSIFIED                             MSAR, December 31, 2023
+
+    (U) Life-Cycle Costs
+
+        (U) Operating and Support and Disposal Cost Estimates Compared with Baseline
+         Category ($M) Base Year: 2017                     APB Change 1                             Current Estimate
+                                                              (Current)                             CY$ obs / TY$ obs
+                                                              2/5/2020
+                                                              CY$ obs
+                                                       Objective / Threshold
+         Total O&S                                        3,701.1              4,071.2               3,083.5              7,315.1
+         Total Disposal                                          -                    -                     -                    -
+
+        (U) Current Cost Estimate Sources
+        Operating and Support Cost
+        Type: Program Office Estimate
+        Approved by: PMA-251, January 15, 2024
+        Note: a. Disposal/Demilitarization Cost Estimate and Source of Estimate (cost can be total or
+        unitized): AAG disposal costs are included in the CVN 78 Class Disposal Cost.
+
+        b. Sustainment Strategy: The AAG is currently in operation onboard the CVN 78. The maintenance
+        concept for AAG utilizes a three-level strategy (organizational (O), intermediate (I), and depot). The
+        fleet performs O-level repairs while the ship's Aircraft Intermediate Maintenance Department, as well
+        as the Carrier and Field Service Unit, perform minimal I-level repairs. For depot-level repair, the
+        Commander, Fleet Readiness Centers, issued a depot source of repair decision on October 25, 2021,
+        based on a joint service capability review, for both organic and contractor facilities at the Naval Air
+        Warfare Center Aircraft Division (NAWCAD) Lakehurst and General Atomics, respectively. The Naval
+        Air Systems Command (NAVAIR) awarded an AAG depot stand-up contract to General Atomics, the
+        AAG original equipment manufacturer (OEM), in January 2021. Depot stand-up commenced in FY
+        2024 to include OEM repairs of depot-level repairables and some organic repair capability. PMA-251
+        designated NAWCAD Lakehurst the AAG Software Support Activity, establishing a software support
+        concept that leverages organic advanced test capability at NAWCAD Lakehurst and OEM subject
+        matter experts for software development, in the fourth quarter of FY 2023. The AAG program
+        achieved the Material Support Date on February 3, 2020, and the Naval Systems Supply Command
+        and Defense Logistics Agency awarded spares and repair contracts for the AAG system. For fleet
+        training, NAVAIR awarded contracts to General Atomics for interim training that will continue until
+        the formal training curriculum and training schoolhouse are complete at the Center for Naval
+        Aviation Technical Training Unit Norfolk in the fourth quarter of FY 2023.
+
+        c. Antecedent System(s) O&S Costs: No antecedent. The AAG system is specifically designed to
+        meet the requirements of the CVN 78 Class. The advanced technologies and capabilities, and
+        unique ship interface requirements of AAG do not exist in any legacy recovery systems. As such,
+        there are no comparable antecedent systems.
+
+        Operating and Support Baseline Deviation Explanation
+        None
+Life-Cycle Costs                                        UNCLASSIFIED                                                          18
+
+AAG                                                          UNCLASSIFIED                                 MSAR, December 31, 2023
+
+         Cost Notes
+         The O&S Cost Estimate (TY$) is 6.450.3.
+
+         (U) Operating and Support Variance with Prior Estimate
+          (CY$M) Base Year: 2017                          Estimate
+          Prior Estimate (1/26/2021)                                3,059.2
+          Current Estimate                                          3,083.5
+
+          Category                                        Variance                                      Explanation
+          Unit-Level Manpower                                            1.6 Updated escalation and labor rates
+          Unit Operations                                                   - Not applicable
+          Maintenance                                                    0.1 Updated escalation and labor rates
+          Sustaining Support                                           18.6 Updated delivery dates, escalation, and labor rates
+          Continuing System                                              4.0 Updated delivery dates, escalation, and labor rates
+          Improvements
+          Other                                                             - Not applicable
+
+          Not Categorized                                                0.0
+
+         (U) Operating and Support Cost Element Structure Estimates by Acquired System
+          (CY$M) Base Year: 2017
+          System                 Unit-Level         Unit        Maintenance       Sustaining          Continuing         Other       Total
+                                Manpower         Operations                        Support              System
+                                                                                                    Improvements
+          AAG                          889.2                 -          824.6            646.0                  723.7         -      3,083.5
+          Program                      889.2                 -          824.6           646.0                   723.7         -      3,083.5
+
+         (U) Annual Operating and Support Costs per Unit Compared with Antecedent System
+          (CY$M) Base Year: 2017
+          System                 Unit-Level         Unit        Maintenance       Sustaining          Continuing         Other       Total
+                                Manpower         Operations                        Support              System
+                                                                                                    Improvements
+          AAG                          889.2                 -          824.6            646.0                  723.7         -      3,083.5
+
+         (U) Operating and Support Cost Estimate Assumptions
+          System                  Quantity to Sustain        Unit Expected Service          Unit of Measure               Fiscal Years
+                                                                   Life (Years)                                            Operational
+          AAG                                            4                       50.0            shipset                         2017 - 2082
+
+Life-Cycle Costs                                             UNCLASSIFIED                                                                  19
+
+AAG                                                UNCLASSIFIED                          MSAR, December 31, 2023
+
+       Additional O&S Estimate Assumptions
+       None
+
+       Antecedent Estimate Assumptions
+       None
+
+       O&S Annual Cost Calculation Memo
+       Total Cost (CY17$M) = Average Annual Cost Per Shipset * Number of Shipsets * Service Life =
+       $15.418M * 4 * 50 = $3,083.5M
+
+Life-Cycle Costs                                   UNCLASSIFIED                                                   20
+
+AAG                                                            UNCLASSIFIED                                   MSAR, December 31, 2023
+
+    (U) Technologies and Systems Engineering
+
+         (U) Current Significant Technical Risks and Risks Identified at Milestones/Decisions
+           Event                Date                  Description
+           Current                  6/30/2026         1.AAG Reliability, Availability, and Maintainability (RAM). If RAM requirements
+                                                         are not being met due to system immaturity and component failures, then
+                                                         insufficient number of operational cycles may limit the program's ability to
+                                                         identify, analyze, and address critical AAG RAM degraders.
+           Current                  6/20/2026         3.Acceptable Level of Cyber Risk. If the AAG cyber-risk is not reduced to an
+                                                         acceptable level within the A25 build, then the system may lose the Authority
+                                                         to Operate (ATO) for the 2023 ATO period (2023-2026).
+           Current                  3/30/2026         2.AAG Obsolescence. If AAG obsolescence does not have a sufficient and
+                                                         continuous funding stream, then ship readiness and supportability will be
+                                                         impacted due to inability to field timely solutions.
+
+Technologies and Systems                                       UNCLASSIFIED                                                             21
+Engineering
+
+      AAG                                                            UNCLASSIFIED                                    MSAR, December 31, 2023
+
+          (U) Performing Activities and Contracts
+
+               (U) External Government Activities
+               None
+
+               (U) Contracts and Efforts
+                 Contract Title                    Contract Number / Effort           Contractor                          Phase
+                 AAG/EMALS CVN 79/80               N0001914C0037                      General Atomics                     Production
+                 Production
+                 AAG/EMALS CVN 81 Pre-             N0001922C0033                      General Atomics                     Production
+                 production Planning/
+                 Production
+
+(U) Contract and Effort Identification, Price, Quantity and Performance
+Contract Number:                   N0001914C0037                         Order Number:
+ Contract Title:                   AAG/EMALS CVN 79/80                   Strategy:
+                                   Production
+ CAGE:                             4V360 - General Atomics               Contracting Office:
+
+ City, State/Province:             San Diego, CA
+
+-
+FAR 15: Negotiated Contracts
+
+Naval Air Systems Command,
+Patuxent River, MD
+
+
+                  Effort Number:                    -                                     Supported Phase:             Production
+                  Type:                             Firm-Fixed-Price                      Award Date:                  May 8, 2014
+                  Latest Modification Date:         January 30, 2024                      Definitization Date:         December 22, 2016
+                  Latest Modification No.:          P00095                                Work Start Date:             May 8, 2014
+                  Technical Data Rights:            Limited Rights
+                  Notes:                            Contract N0001914C0037 is a combined Electromagnetic Aircraft Launch System
+                                                    (EMALS) and AAG CVN 79/CVN 80 Production contract with a total contract value of
+                                                    $1,700.21M. The Naval Air Systems Command (NAVAIR) awarded the base (original)
+                                                    contract for the procurement of EMALS and AAG long lead-time materials. The
+                                                    difference between the Initial Contract Price Target and the Current Contract Price
+                                                    Target is due to contract modifications to add the CVN 79 and CVN 80 AAG shipsets as
+                                                    well as other AAG production-related requirements. The Current Target Price reflects
+                                                    the AAG-related contract funding.
+
+               Initial Price (TY$M)       Current Price (TY$M)         Estimate at Completion (TY$M)              Initial      Current       Delivered
+                  Target / Ceiling            Target / Ceiling                   Contractor / PM                 Quantity      Quantity       Quantity
+                  8.9          8.9          519.0          519.0            519.0                519.0               -             2              -
+
+(U) Contract and Effort Identification, Price, Quantity and Performance
+Contract Number:                   N0001922C0033                         Order Number:
+ Contract Title:                   AAG/EMALS CVN 81 Pre-                 Strategy:
+                                   production Planning/
+                                   Production
+
+-
+FAR 15: Negotiated Contracts
+
+
+
+      Performing Activities and                                      UNCLASSIFIED                                                                      22
+      Contracts
+
+AAG                                                             UNCLASSIFIED                                    MSAR, December 31, 2023
+
+            CAGE:                              4V360 - General Atomics               Contracting Office:          Naval Air Systems Command,
+                                                                                                                  Patuxent River, MD
+            City, State/Province:              San Diego, CA
+
+            Effort Number:                     -                                     Supported Phase:             Production
+            Type:                              Firm-Fixed-Price                      Award Date:                  December 28, 2021
+            Latest Modification Date:          February 26, 2024                     Definitization Date:         December 28, 2021
+            Latest Modification No.:           P00012                                Work Start Date:             December 28, 2021
+            Technical Data Rights:             Limited Rights
+            Notes:                             Contract N0001922C0033 is a combined EMALS and AAG CVN 81 Pre-production
+                                               contract with a total contract value of $1,362.39M. NAVAIR awarded a modification to
+                                               the base contract to add CVN 81 EMALS and AAG shipset production and delivery-
+                                               related CLINs. The difference between the Initial Contract Price Target and the Current
+                                               Contract Price Target is due to contract modifications to add the CVN 81 AAG shipset
+                                               as well as other AAG production-related requirements.
+
+         Initial Price (TY$M)        Current Price (TY$M)         Estimate at Completion (TY$M)               Initial      Current       Delivered
+            Target / Ceiling            Target / Ceiling                    Contractor / PM                 Quantity      Quantity       Quantity
+            0.9           0.9          434.3         434.3             434.3                434.3                -            1               -
+
+Performing Activities and                                       UNCLASSIFIED                                                                      23
+Contracts
+
+AAG                                                     UNCLASSIFIED                              MSAR, December 31, 2023
+
+    (U) Production
+
+        (U) Low-Rate Initial Production
+                                                   Original LRIP Determination              Current LRIP Determination
+          Total LRIP Quantity                      5                                        2
+          Date                                     2/10/2005                                12/22/2015
+          Reference                                Milestone B ADM                          Revision to Milestone B ADM
+          LRIP Period                              FY 2009 - 2012                           FY 2009 - 2014
+          Total Procurement Quantity               20                                       3
+          LRIP Percentage of Total                 25.0%                                    66.7%
+
+        Rationale if LRIP Quantity Exceeds 10% of Total Procurement Quantity (Current Determination)
+        The Original Total LRIP Quantity is more than 10% of the total production quantity as MDA approved
+        and documented in the Milestone B ADM, dated February 10, 2005. The initial LRIP quantities were
+        required to establish an initial production base for the system. Assistant Secretary of the Navy for
+        Research, Development and Acquisition memorandum, "Revision to Milestone B Approval of
+        Advanced Arresting Gear Program Decision Memorandum" of December 22, 2015, approved the
+        procurement of the first full-rate production shipset to be installed on CVN 80, starting in FY 2017.
+        Therefore, the only two LRIP shipsets are CVN 78 and CVN 79.
+
+        LRIP Notes
+        None
+
+Production                                              UNCLASSIFIED                                                       24
+
+AAG                                                       UNCLASSIFIED                                MSAR, December 31, 2023
+
+   (U) Deliveries and Expenditures
+
+        (U) Acquisition Funding
+                                                 Total Estimate                  Actual to Date            Actual, Percent Complete
+         Years Appropriated                                          27                              27                         100.0%
+         Appropriations (TY, $M)                               3,005.0                          3,005.1                         100.0%
+         Expenditures (TY, $M)                                 3,005.0                          1,969.4                          65.5%
+
+        (U) End Items Delivered
+                                       Total Required           Planned to Date            Actual to Date           Actual, Percent
+                                                                                                                       Complete
+         Procurement                                     4
+            AAG                                                                    4                         1
+         Total                                           4                         4                         1                   25.0%
+
+        Notes
+        The above data is current as of March 11, 2024.
+
+Deliveries and Expenditures                               UNCLASSIFIED                                                               25
+
+AAG                                                   UNCLASSIFIED                             MSAR, December 31, 2023
+
+    (U) International Program Aspects
+
+        General Memo
+        The U.S. Navy (USN) is currently working with the French under multiple FMS cases for the Future
+        French Carrier (FFC). Performance under the first FFC-related FMS Letter of Offer and Acceptance
+        (LOA) (with three amendments) for trade studies and technical assistance ended in December
+        2022. The U.S. and French signed a second LOA in July 2021 for the AAG/Electromagnetic Aircraft
+        Launch System (EMALS) Risk Reduction Case; the case was amended in December 2022 to extend
+        performance through April 2024 and further amended in October 2023 to extend performance
+        through Jan 2025. A third case was signed in March 2022 for AAG/EMALS long lead-time materials.
+        This case was amended in July 2023 to include Development Phase 1 efforts through 2025. The
+        Aircraft Launch and Recovery Equipment program office (PMA-251) intends to recommend
+        amending this case in 2025 to include Development Phase 2 efforts through 2027 and Production
+        efforts through 2038. The USN will continue to refine the rough order of magnitude (ROM) cost
+        estimate until the production decision in 2025. A fourth case was signed in September 2022 for
+        feasibility studies and planning for the future Rafale Aircraft Compatibility Testing (ACT) campaign.
+        An amendment signed in May 2023 extended the case period of performance through September
+        2023. A second amendment to further extend the case through May 2024 was signed in December
+        2023.
+        After Rafale ACT planning case signature, a working group convened at Lakehurst, NJ where France
+        requested a shift in the Rafale test plan. A limited ACT campaign is planned for 2025 to support the
+        AAG/EMALS production decision. A new schedule and updated cost estimate were developed to
+        support a 2024 LOA Amendment for the 2025 ACT campaign. The LOA amendment was offered to
+        the French on February 15, 2024 and is pending acceptance.
+        A combined USN/France ship integration team was established in January 2023 and will meet
+        quarterly through ship delivery in 2036.
+
+        Exportability and Business Issues
+        The USN and the Indian Navy conducted several face-to-face meetings and continued monthly
+        discussions under their Information Exchange Agreement on Aircraft Carrier Technologies.
+        PMA-251 provided a Pricing and Availability (P&A) ROM statement for AAG/EMALS to India in 2017
+        and is supporting a PEO(Carriers) LOA for a training capsule on ship-design aspects related to
+        aviation.
+
+          Is design for international exportability   No          Industry/Partner Exportability Cost-Sharing?      No
+          planned?
+          If not, has the MDA approved an             Not Applicable
+          exportability waiver for a U.S.-only design?
+
+        Program Protection: Technology Security and Foreign Disclosure Issues
+        The AAG system is U.S. critical technology and not openly distributable to foreign countries. Foreign
+        participation is restricted due to critical program information. The AAG Technology Transfer and
+        Security Assistance Review Board documentation is complete and an Exception to National
+International Program Aspects                         UNCLASSIFIED                                                      26
+
+AAG                                                           UNCLASSIFIED                                  MSAR, December 31, 2023
+
+         Disclosure Policy is in place. The AAG program will comply with these policy documents when
+         considering the possible export of any AAG technologies and/or capabilities.
+
+         (U) Agreements
+          Activity Date Type            Agreement Number            International Partner(s)                 Quantity Funding (TY$M)
+           12/5/2023       FMS LOA FR-P-GAJ A2                      France (FR)                                  -                -
+           10/12/2023 FMS LOA FR-P-LIE A3                           France (FR)                                  -                -
+           7/11/2023       FMS LOA FR-P-LID A1                      France (FR)                                  -                -
+           5/15/2023       FMS LOA FR-P-GAJ A1                      France (FR)                                  -                -
+           12/9/2022       FMS LOA FR-P-LIE A2                      France (FR)                                  -                -
+            9/9/2022       FMS LOA FR-P-GAJ                         France (FR)                                  -                -
+           8/17/2022       FMS LOA FR-P-GXG A3                      France (FR)                                  -                -
+           3/17/2022       FMS LOA FR-P-LID                         France (FR)                                  -                      0.4
+           11/4/2021       FMS LOA FR-P-LIE A1                      France (FR)                                  -                -
+           7/23/2021       FMS LOA FR-P-LIE                         France (FR)                                  -                      3.4
+           11/24/2020 FMS LOA FR-P-GXG A2                           France (FR)                                  -                      1.9
+           10/25/2019 FMS LOA FR-P-GXG A1                           France (FR)                                  -                      1.6
+           9/11/2018       FMS LOA FR-P-GXG                         France (FR)                                  -                      2.2
+
+          (U) Agreement Information
+          Partner(s):       France (FR)                                                              Activity Date:                12/5/2023
+          Type:             Foreign Military Sales: Letter of Offer and Acceptance                   Agreement Number:           FR-P-GAJ A2
+          Notes:            This is a no-change-in-price LOA amendment
+
+              France (FR)
+              Fiscal Year      Funding (TY$M)         Quantity
+              2024                      -                 -
+              Total                     -                 -
+
+          (U) Agreement Information
+          Partner(s):       France (FR)                                                              Activity Date:               10/12/2023
+          Type:             Foreign Military Sales: Letter of Offer and Acceptance                   Agreement Number:           FR-P-LIE A3
+          Notes:            This is a no-change-in-price administrative LOA amendment
+
+              France (FR)
+              Fiscal Year      Funding (TY$M)         Quantity
+              2024                      -                 -
+              Total                     -                 -
+
+          (U) Agreement Information
+          Partner(s):       France (FR)                                                              Activity Date:                7/11/2023
+          Type:             Foreign Military Sales: Letter of Offer and Acceptance                   Agreement Number:           FR-P-LID A1
+          Notes:            Development Phase 1 support for the AAG and EMALS preliminary designs for the FFC
+
+International Program Aspects                                 UNCLASSIFIED                                                                   27
+
+AAG                                                              UNCLASSIFIED                                     MSAR, December 31, 2023
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)          Quantity
+               Total                      -                  -
+
+           (U) Agreement Information
+           Partner(s): France (FR)                                                                      Activity Date:               5/15/2023
+           Type:           Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-GAJ
+                                                                                                                                     A1
+           Notes:          This is a no-change-in-price LOA amendment
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)          Quantity
+               2023                        -                 -
+               Total                      -                  -
+
+           (U) Agreement Information
+           Partner(s): France (FR)                                                                      Activity Date:               12/9/2022
+           Type:           Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-LIE
+                                                                                                                                     A2
+           Notes:          Risk Reduction support for the AAG and EMALS program
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)          Quantity
+               Total                      -                  -
+
+           (U) Agreement Information
+           Partner(s): France (FR)                                                                      Activity Date:                9/9/2022
+           Type:           Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-GAJ
+           Notes:          Feasibility investigation and technical assistance in preparation for Rafale Aircraft Compatibility
+                           Testing
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)          Quantity
+               Total                      -                  -
+
+           (U) Agreement Information
+           Partner(s): France (FR)                                                                      Activity Date:               8/17/2022
+           Type:           Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-GXG
+                                                                                                                                     A3
+           Notes:          This is a no-change-in-price modification to extend the LOA period of performance
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)          Quantity
+               2023                        -                 -
+               Total                      -                  -
+
+           (U) Agreement Information
+
+International Program Aspects                                    UNCLASSIFIED                                                                   28
+
+AAG                                                              UNCLASSIFIED                                    MSAR, December 31, 2023
+
+           Partner(s): France (FR)                                                                     Activity Date:               3/17/2022
+           Type:           Foreign Military Sales: Letter of Offer and Acceptance                      Agreement Number:            FR-P-LID
+           Notes:          Early long-lead AAG and EMALS forgings
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)         Quantity
+               2022                             0.4          -
+               Total                            0.4          -
+
+           (U) Agreement Information
+           Partner(s):       France (FR)                                                                  Activity Date:                11/4/2021
+           Type:             Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-LIE A1
+           Notes:            This is a no-change-in-price LOA amendment.
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)         Quantity
+               2022                       -                  -
+               Total                      -                  -
+
+           (U) Agreement Information
+           Partner(s):       France (FR)                                                                  Activity Date:                7/23/2021
+           Type:             Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-LIE
+           Notes:            Risk Reduction support for the AAG and EMALS program
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)         Quantity
+               2021                             3.4          -
+               Total                            3.4          -
+
+           (U) Agreement Information
+           Partner(s):       France (FR)                                                                  Activity Date:                11/24/2020
+           Type:             Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-GXG A2
+           Notes:            Data to support preliminary design for AAG and EMALS integration
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)         Quantity
+               2021                             1.9          -
+               Total                            1.9          -
+
+           (U) Agreement Information
+           Partner(s):       France (FR)                                                                  Activity Date:                10/25/2019
+           Type:             Foreign Military Sales: Letter of Offer and Acceptance                       Agreement Number:            FR-P-GXG A1
+           Notes:            Data to support a preliminary design decision for the AAG and EMALS integration
+
+               France (FR)
+               Fiscal Year       Funding (TY$M)         Quantity
+
+International Program Aspects                                    UNCLASSIFIED                                                                      29
+
+AAG                                                           UNCLASSIFIED                                  MSAR, December 31, 2023
+
+              France (FR)
+              Fiscal Year      Funding (TY$M)         Quantity
+              2020                            1.6          -
+              Total                           1.6          -
+
+          (U) Agreement Information
+          Partner(s): France (FR)                                                                  Activity Date:              9/11/2018
+          Type:           Foreign Military Sales: Letter of Offer and Acceptance                   Agreement Number:           FR-P-GXG
+          Notes:          Data to support a preliminary design decision for AAG and EMALS integration
+
+              France (FR)
+              Fiscal Year      Funding (TY$M)         Quantity
+              2019                            2.2          -
+              Total                           2.2          -
+
+International Program Aspects                                 UNCLASSIFIED                                                                30
+
+          OF                 UNCLASSIFIED
+CPARTMENT
+ 1 STATES 0F  1
+                             Modernized
+                 Selected Acquisition Report
+                             Supplement
+
+                      Advanced Arresting Gear
+                                  (AAG)
+
+                        FY 2025 President’s Budget
+                         As of: December 31, 2023
+
+                             UNCLASSIFIED
+
+                                   UNCLASSIFIED
+
+MSAR Supplement Sections
+Program Description
+
+Program Use of the Adaptive Acquistion Framework
+
+Technologies and Systems Engineering
+
+Funding Sources (Acquisition)
+
+Funding Sources (Operating and Support)
+
+Acquisition Estimate and Quantity Summary
+
+Annual Acquisition Estimates by Appropriation Account
+
+Acquired System Annual End-Item Quantities by Appropriation Account
+
+Nuclear Costs
+
+Operational Fielding Plan
+
+O&S Independent Cost Estimate
+
+Annual Operating and Support Estimates by Cost Element
+
+                                   UNCLASSIFIED
+
+                                 UNCLASSIFIED                              SAR SupplementDec 2023
+
+ Program Description
+
+ Full Name                                         Short Name
+ Advanced Arresting Gear                           AAG
+
+ PNO                                               Lead Component
+ 529                                               Navy
+
+ AAF Pathway                                       Acquisition Type
+ MCA                                               MDAP
+
+ Acquired Systems
+ AAG
+
+ Related Programs
+                                                    ACAT/    Acquisition  Costs in SAR?
+ Full Name                PNO  Pathway       Type   BCAT        Status      Acq    O&S
+
+Program Description              UNCLASSIFIED                                         3 | 18
+
+                                                            UNCLASSIFIED                                        SAR SupplementDec 2023
+
+ Program Use of the Adaptive Acquisition Framework
+
+The AAG program is a system-level acquisition for a new arresting gear for the GERALD R. FORD-class (CVN 78)
+aircraft carrier. The AAG is designed to provide total life-cycle cost savings by reducing O&M costs when
+compared to the legacy NIMITZ-class arresting gear. The AAG provides new operational capabilities necessary to
+achieve the CVN 78-class performance requirements, which include the ability to safely and efficiently recover
+both faster, heavier aircraft and future lightweight unmanned air vehicles.
+
+As government-furnished equipment for the CVN 78-class aircraft carrier, the AAG program of record is four
+shipsets for CVN 78-CVN 81. The U.S. Navy delivered the CVN 78 to the fleet; production for the remaining AAG
+shipsets is underway.
+
+The AAG program follows the CVN 78 program major milestone schedule. Additionally, AAG production is
+dependent on CVN 78 program funding allocated to support shipset and production-related procurements.
+
+This acquisition is accomplished by a single program in the Major Capability Acquisition Pathway.
+
+Program Use of AAF                                          UNCLASSIFIED                                                       4 | 18
+
+                                                                                      UNCLASSIFIED            SAR SupplementDec 2023
+
+                 Technologies and Systems Engineering
+                 Advanced Arresting Gear
+
+                      Major Software Efforts
+
+                      Title                                Status            Fielding Date Description
+                      None
+
+Major Engineering Changes
+
+Title
+ECP-I-AAG-0014 Water
+Twister Mod II
+
+
+
+
+
+
+
+
+
+
+
+
+
+Original Need
+Date              Fielding Date Description, Rationale and Program Impacts
+                  May 2025          ECP-I-AAG-0014 encompasses designing, testing, and fielding a new
+                                    Water Twister (WT) configuration (Mod II) to retrofit the WTs at the Jet
+                                    Car Test Site (JCTS) and aboard CVN 78 and CVN 79. It also includes
+                                    forward-fit WT Mod II for CVN 80 and forward. The preliminary ECP (Part
+                                    1) encompasses developing the WT Mod II, producing units to be tested
+                                    at the JCTS, and completing a Technical Data Package including
+                                    updated Integrated Product Support products. The formal ECP (Part 2)
+                                    will encompass procuring and fielding WT Mod II aboard Ford-class
+                                    carriers and retrofitting the Runway Arrested Landing Site. This WT Mod
+                                    II solution incorporates new, redesigned hardware subcomponents to
+                                    meet established threshold requirements of the AAG operating envelope.
+                                    Component design changes will maintain system performance while
+                                    addressing design deficiencies that resulted in fatigue, fracture and
+                                    service-life concerns, thus improving factors of safety.
+
+                Tech & Systems Engineering                                            UNCLASSIFIED                             5 | 18
+
+                                                                    UNCLASSIFIED                                                            SAR SupplementDec 2023
+
+ Funding Sources (Acquisition)
+
+     Acquisition Funding Notes
+     The CVN 78 program allocates Shipbuilding and Conversion, Navy (SCN) funding to AAG from the CVN 78
+     SCN 17-1611 budget.
+
+     Advanced Arresting Gear
+                                                                                         Program
+     Category          Account       BA    Line Item                                     Element           RDT&E Project                     Shared      Sunk
+     RDT&E             1319N         05    0604512N - Shipboard Aviation                 0604512N         2232 - CV/CVN Launch and               x
+                                           Systems                                                         Recover
+                Note:This appropriation is shared with all Aircraft Launch and Recovery Equipment (ALRE) products, except Expeditionary
+                       Airfields.
+     RDT&E             1319N         05    0604530N - Advanced Arresting Gear            0604530N          2367 - Advanced Arresting
+                                           (AAG)                                                           Gear
+                Note:
+     Procurement       1810N         08    9020 - Spares and Repair Parts                0204112N          -                                     x
+                Note:This appropriation is shared with all ALRE products.
+     Procurement       1810N         03    4213 - Aircraft Support Equipment             0204112N          -                                     x           x
+                Note:This appropriation is shared with all ALRE products and encompasses 4216 as a cost type starting in FY 2015.
+     Procurement       1810N         03    4216 - Aircraft Launch & Recovery             0204112N          -                                     x           x
+                                           Equipment
+                Note:This appropriation is active per the PB. However, it is sunk in FY 2014 per DON 2017, as reported in the POM 2017 ad
+                       hoc report. This appropriation is categorized a cost type in the 4213 sub-activity aircraft support equipment program
+                       element. The AAG is a separate individual modification procurement exhibit (P-3a) in the
+                        budget.
+     Procurement       1810N         03    4217 - Advanced Arresting Gear                0204112N          -
+                                           (AAG)
+                Note:
+     Procurement       1611N         02    2001 - Carrier Replacement Program            0204112N          -                                     x
+
+                Note:This appropriation is shared with all GERALD R. FORD-class ships.
+     MILCON            1205N         XX    OTHER - Other or New 1205N Line               XXX              XXX - --                                           x
+                                           Item
+                Note:Advanced Arresting Gear Test Site (BLI 148558251, PE 0805376N
+
+Funding Sources (Acquisition)                                       UNCLASSIFIED                                                                            6 | 18
+
+                                                    UNCLASSIFIED                                SAR SupplementDec 2023
+
+ Funding Sources (Operating and Support)
+
+    Note: Budget lines fund activites executed by the Program Office or Sustainment Office.
+
+    Operating and Support Funding Notes
+    None
+
+    Advanced Arresting Gear
+                                                                    Program
+    Category      Account   BA   Line Item                          Element      RDT&E Project   Shared  Sunk
+
+            Note:
+
+Funding Sources (O&S)                               UNCLASSIFIED                                            7 | 18
+
+                                                        UNCLASSIFIED                                                SAR SupplementDec 2023
+
+ Acquisition Estimate and Quantity Summary
+ Advanced Arresting Gear
+
+     Acquisiton Estimates                                     Current Base Year     Original Base Year       Report Fiscal Year
+       Category         PB 2025             TY ($M)            CY2017 ($M)            CY2017 ($M)             CY2024 ($M)
+       RDT&E                                      1,422.2               1,407.9                1,407.9                   1,756.8
+       Procurement                                1,567.4               1,314.6                1,314.6                   1,640.4
+       MILCON                                        15.4                   16.9                  16.9                      21.1
+       O&M                                             -                     -                      -                         -
+       R&MF                                            -                     -                      -                         -
+    Total Acquisition                             3,005.0               2,739.4                2,739.4                   3,418.3
+    PAUC                                         751.260               684.856                684.856                   854.575
+    APUC                                         391.850               328.648                328.648                   410.092
+
+     Acquisiton End-Item Quantities
+    System            PB 2025             Development            Procurement          O&M-Acquired
+    AAG                                                -                       4                    -
+
+    Total                                              -                       4                    -
+
+     Unit Description
+    The AAG system consists of the energy absorbing subsystem (includes mechanical brake, water twister,
+    and electric motor), dynamic control subsystem, cross-deck pendant, thermal management system,
+    workstation management subsystem (with interactive HealthMAP display system), prime power
+    subsystem, power conditioning subsystem, and drive fairlead subsystem (includes cable shock absorber
+    and retractable sheaves).
+
+     Current and Future Years Defense Program Summary, TY($M)                                                 To
+    Appropriation           Prior       2024        2025       2026       2027       2028        2029     Complete        Total
+       RDT&E                 1,333.7       10.7        9.1       14.0        10.6       21.9       22.3           -        1,422.2
+       Procurement             963.9     113.3       137.7       93.3        97.0     162.2         -             -        1,567.4
+       MILCON                   15.4        -          -          -           -          -          -             -           15.4
+       O&M                       -          -          -          -           -          -          -             -            -
+       R&MF                      -          -          -          -           -          -          -             -            -
+    PB 2025 Total            2,313.0     124.0       146.9      107.3      107.5      184.0        22.3           -        3,005.0
+
+Acquisition & Quantity Summary                          UNCLASSIFIED                                                             8 | 18
+
+                                                               UNCLASSIFIED                                                       SAR SupplementDec 2023
+
+Annual Acquisition Estimates by Appropriation Account
+                             (Aligned to Budget Position: PB 2025)
+
+Advanced Arresting Gear
+
+        Source for TY$-CY$ Conversion:      ASN FMB-6 Inflation Rates and Outlay Factors for DA, DoN and DW accounts: 17 Jan 2024
+                                          1319N - Research, Development, Test & Eval, Navy
+                                Non-End
+                  End Item        Item          Non-
+      fiscal     Recurring     Recurring     Recurring                      Depot         Other/         Total       Weighted     Total CY2017
+       year       Flyaway       Flyaway       Flyaway     Initial Spares  Activation   Unallocated      TY($M)          Rate          ($M)
+      Total                -              -             -             -              -     1,422.2        1,422.2               -     1,407.9
+      2003                                                                                  12.300           12.3     0.781970            15.7
+      2004                                                                                  15.730           15.7     0.803798            19.6
+      2005                                                                                  24.190           24.2     0.824954            29.3
+      2006                                                                                  33.450           33.5     0.850659            39.3
+      2007                                                                                  26.700           26.7     0.871495            30.6
+      2008                                                                                  34.390           34.4     0.887392            38.8
+      2009                                                                                  45.480           45.5     0.898786            50.6
+      2010                                                                                  64.480           64.5     0.912268            70.7
+      2011                                                                                  65.160           65.2     0.934050            69.8
+      2012                                                                                  40.400           40.4     0.949541            42.5
+      2013                                                                                  52.940           52.9     0.959512            55.2
+      2014                                                                                  72.260           72.3     0.973069            74.3
+      2015                                                                                 117.480          117.5     0.985313           119.2
+      2016                                                                                 106.770          106.8     1.003600           106.4
+      2017                                                                                 100.400          100.4     1.022378            98.2
+      2018                                                                                 166.630          166.6     1.047421           159.1
+      2019                                                                                 168.430          168.4     1.067594           157.8
+      2020                                                                                 122.500          122.5     1.106854           110.7
+      2021                                                                                  63.700           63.7     1.156600            55.1
+      2022                                                                                   0.150             0.2    1.217024              0.1
+      2023                                                                                   0.150             0.2    1.253255              0.1
+      2024                                                                                  10.660           10.7     1.281864              8.3
+      2025                                                                                   9.140             9.1    1.309056              7.0
+      2026                                                                                  14.040           14.0     1.336546            10.5
+      2027                                                                                  10.560           10.6     1.364614              7.7
+      2028                                                                                  21.850           21.9     1.393271            15.7
+      2029                                                                                  22.300           22.3     1.422529            15.7
+
+Annual Acquisition Estimates                                   UNCLASSIFIED                                                                     9 | 18
+
+                                                                UNCLASSIFIED                                                        SAR SupplementDec 2023
+
+Annual Acquisition Estimates by Appropriation Account
+                              (Aligned to Budget Position: PB 2025)
+
+Advanced Arresting Gear
+
+        Source for TY$-CY$ Conversion:      ASN FMB-6 Inflation Rates and Outlay Factors for DA, DoN and DW accounts: 17 Jan 2024
+                                                     1810N - Other Procurement, Navy
+                                Non-End
+                  End Item        Item          Non-
+      fiscal     Recurring     Recurring      Recurring                      Depot         Other/         Total       Weighted     Total CY2017
+       year       Flyaway       Flyaway        Flyaway     Initial Spares  Activation   Unallocated      TY($M)          Rate          ($M)
+      Total           183.8               -              -             -              -             -        183.8               -        170.9
+      2003                                                                                                         -   0.792647                 -
+      2004                                                                                                         -   0.812203                 -
+      2005                                                                                                         -   0.835071                 -
+      2006                                                                                                         -   0.862741                 -
+      2007                                                                                                         -   0.881521                 -
+      2008                                                                                                         -   0.895847                 -
+      2009                                                                                                         -   0.907656                 -
+      2010                                                                                                         -   0.925199                 -
+      2011                                                                                                         -   0.938728                 -
+      2012            1.400                                                                                     1.4    0.953663              1.5
+      2013          52.860                                                                                    52.9     0.966722            54.7
+      2014            7.070                                                                                     7.1    0.979587              7.2
+      2015          15.990                                                                                    16.0     0.993714            16.1
+      2016            9.660                                                                                     9.7    1.011703              9.5
+      2017            2.230                                                                                     2.2    1.033192              2.2
+      2018          10.900                                                                                    10.9     1.056737            10.3
+      2019          11.050                                                                                    11.1     1.082380            10.2
+      2020            4.730                                                                                     4.7    1.120493              4.2
+      2021          16.060                                                                                    16.1     1.175308            13.7
+      2022          22.270                                                                                    22.3     1.225155            18.2
+      2023          15.410                                                                                    15.4     1.260622            12.2
+      2024          11.930                                                                                    11.9     1.289197              9.3
+      2025            2.240                                                                                     2.2    1.316536              1.7
+
+Annual Acquisition Estimates                                    UNCLASSIFIED                                                                    10 | 18
+
+                                                                UNCLASSIFIED                                                       SAR SupplementDec 2023
+
+Annual Acquisition Estimates by Appropriation Account
+                             (Aligned to Budget Position: PB 2025)
+
+Advanced Arresting Gear
+
+        Source for TY$-CY$ Conversion:      ASN FMB-6 Inflation Rates and Outlay Factors for DA, DoN and DW accounts: 17 Jan 2024
+                                        1611N (BLS Hist) - Shipbuilding and Conversion, Navy
+                                Non-End
+                  End Item        Item          Non-
+      fiscal     Recurring     Recurring     Recurring                      Depot          Other/         Total       Weighted    Total CY2017
+       year       Flyaway       Flyaway       Flyaway     Initial Spares  Activation    Unallocated      TY($M)         Rate           ($M)
+      Total         1,383.6               -             -              -             -              -     1,383.6               -      1,143.7
+      2003                                                                                                        -   0.701354                 -
+      2004                                                                                                        -   0.726797                 -
+      2005                                                                                                        -   0.759012                 -
+      2006                                                                                                        -   0.785780                 -
+      2007                                                                                                        -   0.821887                 -
+      2008            0.710                                                                                    0.7    0.849880              0.8
+      2009          52.350                                                                                    52.4    0.875879            59.8
+      2010          36.320                                                                                    36.3    0.906310            40.1
+      2011          44.230                                                                                    44.2    0.936042            47.3
+      2012          20.260                                                                                    20.3    0.957515            21.2
+      2013            6.520                                                                                    6.5    0.977541              6.7
+      2014          15.690                                                                                    15.7    0.997336            15.7
+      2015          55.380                                                                                    55.4    1.020322            54.3
+      2016          51.470                                                                                    51.5    1.046414            49.2
+      2017          81.800                                                                                    81.8    1.076431            76.0
+      2018          95.800                                                                                    95.8    1.111495            86.2
+      2019          99.390                                                                                    99.4    1.152852            86.2
+      2020          46.900                                                                                    46.9    1.200357            39.1
+      2021          38.550                                                                                    38.6    1.248889            30.9
+      2022          27.570                                                                                    27.6    1.292497            21.3
+      2023         121.360                                                                                  121.4     1.322912            91.7
+      2024         101.380                                                                                  101.4     1.351292            75.0
+      2025         135.470                                                                                  135.5     1.379719            98.2
+      2026          93.300                                                                                    93.3    1.408693            66.2
+      2027          96.980                                                                                    97.0    1.438276            67.4
+      2028         162.170                                                                                  162.2     1.468480           110.4
+
+Annual Acquisition Estimates                                    UNCLASSIFIED                                                                   11 | 18
+
+                                                                 UNCLASSIFIED                                                         SAR SupplementDec 2023
+
+Annual Acquisition Estimates by Appropriation Account
+                              (Aligned to Budget Position: PB 2025)
+
+Advanced Arresting Gear
+
+         Source for TY$-CY$ Conversion:      ASN FMB-6 Inflation Rates and Outlay Factors for DA, DoN and DW accounts: 17 Jan 2024
+                                                     1205N - Military Construction, Navy
+                                 Non-End
+                  End Item         Item          Non-
+       fiscal    Recurring      Recurring      Recurring                      Depot          Other/         Total        Weighted     Total CY2017
+       year       Flyaway        Flyaway        Flyaway     Initial Spares  Activation    Unallocated      TY($M)          Rate           ($M)
+      Total                 -              -              -              -              -         15.4           15.4               -         16.9
+      2003                                                                                                           -   0.798714                  -
+      2004                                                                                                           -   0.819628                  -
+      2005                                                                                                           -   0.842891                  -
+      2006                                                                                                           -   0.865753                  -
+      2007                                                                                                           -   0.883359                  -
+      2008                                                                                                           -   0.898414                  -
+      2009                                                                                     15.400            15.4    0.910724             16.9
+
+Annual Acquisition Estimates                                     UNCLASSIFIED                                                                      12 | 18
+
+                                                      UNCLASSIFIED              SAR SupplementDec 2023
+
+ Acquired System Annual End-Item Quantities by Appropriation Account
+                  (Aligned to Budget Position: PB 2025)
+
+ Advanced Arresting Gear
+
+             1611N (BLS Hist) - Shipbuilding and Conversion, Navy
+
+      fiscal year       AAG                                           Total
+        Total                   4               -                -           4
+    Undistributed                                                            -
+        2008                    1                                            1
+        2009                                                                 -
+        2010                                                                 -
+        2011                                                                 -
+        2012                                                                 -
+        2013                    1                                            1
+        2014                                                                 -
+        2015                                                                 -
+        2016                                                                 -
+        2017                                                                 -
+        2018                    1                                            1
+        2019                                                                 -
+        2020                                                                 -
+        2021                                                                 -
+        2022                                                                 -
+        2023                    1                                            1
+
+Annual Acquisition Quantities                         UNCLASSIFIED                         13 | 18
+
+                                             UNCLASSIFIED  SAR SupplementDec 2023
+
+Nuclear Costs
+Advanced Arresting Gear
+
+   Program's Use of Department of Energy Resources
+   None
+
+Nuclear Costs                                UNCLASSIFIED            14 | 18
+
+                                                              UNCLASSIFIED                                        SAR SupplementDec 2023
+
+ Operational Fielding Plan
+
+ Advanced Arresting Gear
+
+     System: AAG
+
+     Fielding and Inventory Notes
+     The U.S. Navy delivered the USS Gerald R. Ford with the first AAG shipset to the fleet in 2018. The AAG
+     service-life is approximately 50 years. The USS John F. Kennedy delivery is scheduled in Jul 2025 and
+     the USS Enterprise projected delivery is Sep 2029. The last program of record AAG shipset (scheduled
+     for delivery onboard the future USS Doris Miller in Feb 2032) is expected to end service in 2082.
+
+     AAG Fielding Plan and Inventory
+       fiscal
+        year           Store               Field          Expend/Loss        Decommission           Inventory
+       2023                                                                                                    1
+       2024                                                                                                    1
+       2025                                          1                                                         2
+       2026                                                                                                    2
+       2027                                                                                                    2
+       2028                                                                                                    2
+       2029                                          1                                                         3
+
+Operational Fielding Plan                                     UNCLASSIFIED                                                    15 | 18
+
+                                                             UNCLASSIFIED                                        SAR SupplementDec 2023
+
+ O&S Independent Cost Estimate
+ Advanced Arresting Gear
+
+     Independent and Current Cost Estimate Comparison
+                                                     Independent Cost   Current Estimate    Variance with ICE
+     Category             CY2017 ($M)               Estimate 7/12/2017       1/15/2024             (%)
+       Unit-Level Manpower                                      586.7               889.2                52%
+       Unit Operations                                                -                   -                   -
+       Maintenance                                              915.4               824.6               -10%
+       Sustaining Support                                       398.3               646.0                62%
+       Continued System Improvements                            508.6               723.7                42%
+       Other                                                          -                   -                   -
+       Total O&S                                              2,409.1             3,083.6                28%
+
+     Independent Cost Estimate Source
+       Event:               CAPE Nunn-McCurdy Certification of Cost Estimates for the AAG Program
+       Type:                Independent Cost Estimate
+       Approved by:         OSD Cost Assessment & Program Evaluation, July 12, 2017
+       Note:                The CAPE estimate was based on acquisition of three AAG systems, which was
+                            the program of record quantity at that time.
+
+     Current Cost Estimate Source
+       Type:                Program Office Estimate
+       Approved by:         POE, January 15, 2024
+
+     Cost Estimate Variance Explanation
+     1.0 Unit Level Manpower - Increased billets assigned per hull, annual DoD paygrade changes and
+     additional ship added to program of record
+     2.0 Unit Operations - N/A
+     3.0 Maintenance - Updated data and methodology impacted average cost per year
+     4.0 Sustaining Support - Revised methodology and additional ship added to program of record
+     impacted average cost per year
+     5.0 Continued System Improvements - Updated methodology and additional ship added to program of
+     record impacted average cost per year
+
+     The 2017 ICE occured when the CAPE O&S structure reflected 2014 guidance, including 6.0 Indirect
+     Support. Current CAPE 2020 structure removed element 6.0. Therefore 6.0 costs are not shown in
+     the 1/15/2024 Current Estimate in the comparison table.
+
+O&S Independent Cost Estimate                                UNCLASSIFIED                                                    16 | 18
+
+                                                             UNCLASSIFIED                                                   SAR SupplementDec 2023
+
+ Annual Operating and Support Estimates by Cost Element
+ Advanced Arresting Gear
+
+     System: AAG
+
+        Source for TY-CY Conversion:         ASN FMB-6 Inflation Rates and Outlay factors for Army, Navy, and Defense-wide Accounts
+
+                                        Operating and Support Cost Elements
+                  1.0 Unit-                                        4.0        5.0 Continuing
+       fiscal       Level        2.0 Unit          3.0         Sustaining         System                      Total CY2017
+       year      Manpower      Operations     Maintenance       Support       Improvements         Other           ($M)
+       Total          889.2                -          824.6         646.0               723.7               -      3,083.6
+       2017                 -              -               -        2.895                     -             -           2.9
+       2018           4.468                -          1.476         1.684                     -             -           7.6
+       2019           4.468                -          1.476         5.252                     -             -          11.2
+       2020           4.468                -          1.476         7.765                     -             -          13.7
+       2021           4.468                -          4.185         8.906               8.276               -          25.8
+       2022           4.468                -          4.185         8.794               5.288               -          22.7
+       2023           4.468                -          4.185         9.795               5.189               -          23.6
+       2024           4.468                -          4.185         9.603               9.737               -          28.0
+       2025           8.937                -          8.369        10.377             11.003                -          38.7
+       2026           8.937                -          8.369         9.862             10.904                -          38.1
+       2027           8.937                -          8.369         9.862             10.904                -          38.1
+       2028           8.937                -          8.369         9.862             11.003                -          38.2
+       2029           8.937                -          8.369         9.862             11.065                -          38.2
+       2030          13.405                -        12.554         10.381             12.232                -         48.6
+       2031          13.405                -        12.554          9.866             12.331                -         48.2
+       2032          13.405                -        12.554          9.866             12.232                -         48.1
+       2033          17.873                -        16.739         10.187             13.559                -         58.4
+       2034          17.873                -        16.739         10.187             13.820                -         58.6
+       2035          17.873                -        16.739         10.702             13.559                -         58.9
+       2036          17.873                -        16.739         10.187             13.559                -         58.4
+       2037          17.873                -        16.739         10.187             13.659                -         58.5
+       2038          17.873                -        16.739         10.187             13.559                -         58.4
+       2039          17.873                -        16.739         10.187             13.721                -         58.5
+       2040          17.873                -        16.739         10.702             13.659                -         59.0
+       2041          17.873                -        16.739         10.187             13.559                -         58.4
+       2042          17.873                -        16.739         10.187             13.559                -         58.4
+       2043          17.873                -        16.739         10.187             13.659                -         58.5
+       2044          17.873                -        16.739         10.187             13.721                -         58.5
+       2045          17.873                -        16.739         10.702             13.559                -         58.9
+       2046          17.873                -        16.739         10.187             13.659                -         58.5
+       2047          17.873                -        16.739         10.187             13.559                -         58.4
+       2048          17.873                -        16.739         10.187             13.559                -         58.4
+       2049          17.873                -        16.739         10.187             13.820                -         58.6
+
+Annual O&S Estimates                                         UNCLASSIFIED                                                                17 | 18
+
+                                                             UNCLASSIFIED                                                     SAR SupplementDec 2023
+
+    System: AAG
+       Source for TY-CY Conversion:          ASN FMB-6 Inflation Rates and Outlay factors for Army, Navy, and Defense-wide Accounts
+
+                                        Operating and Support Cost Elements
+                  1.0 Unit-                                        4.0         5.0 Continuing
+      fiscal       Level         2.0 Unit          3.0         Sustaining         System                       Total CY2017
+       year      Manpower      Operations     Maintenance       Support        Improvements         Other           ($M)
+      2050           17.873                -        16.739         10.702              13.559                -         58.9
+      2051           17.873                -        16.739         10.187              13.559                -         58.4
+      2052           17.873                -        16.739         10.187              13.659                -         58.5
+      2053           17.873                -        16.739         10.187              13.559                -         58.4
+      2054           17.873                -        16.739         10.187              13.721                -         58.5
+      2055           17.873                -        16.739         10.702              13.659                -         59.0
+      2056           17.873                -        16.739         10.187              13.559                -         58.4
+      2057           17.873                -        16.739         10.187              13.559                -         58.4
+      2058           17.873                -        16.739         10.187              13.659                -         58.5
+      2059           17.873                -        16.739         10.187              13.721                -         58.5
+      2060           17.873                -        16.739         10.702              13.559                -         58.9
+      2061           17.873                -        16.739         10.187              13.659                -         58.5
+      2062           17.873                -        16.739         10.187              12.232                -         57.0
+      2063           17.873                -        16.739         10.187              12.232                -         57.0
+      2064           17.873                -        16.739         10.187              12.492                -         57.3
+      2065           17.873                -        16.739         10.702              12.232                -         57.5
+      2066           17.873                -        16.739         10.187              12.232                -         57.0
+      2067           13.405                -        12.554         10.095              12.331                -         48.4
+      2068           13.405                -        12.554         10.095              12.232                -         48.3
+      2069           13.405                -        12.554         10.095              12.393                -         48.4
+      2070           13.405                -        12.554         10.610              11.003                -         47.6
+      2071           13.405                -        12.554         10.095              10.904                -         47.0
+      2072           13.405                -        12.554         10.095              10.904                -         47.0
+      2073           13.405                -        12.554         10.095              11.003                -         47.1
+      2074           13.405                -        12.554         10.095              11.065                -         47.1
+      2075            8.937                -          8.369        10.377                9.576               -          37.3
+      2076            8.937                -          8.369         9.862                9.675               -         36.8
+      2077            8.937                -          8.369         9.862                9.576               -         36.7
+      2078            8.937                -          8.369         9.862                5.189               -         32.4
+      2079            8.937                -          8.369         9.862                5.450               -         32.6
+      2080            4.468                -          4.185        10.448                5.189               -          24.3
+      2081            4.468                -          4.185         9.933                5.189               -         23.8
+      2082            4.468                -          4.185         9.933                5.288               -         23.9
+
+Annual O&S Estimates                                         UNCLASSIFIED                                                                 18 | 18
+
